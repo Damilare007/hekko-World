@@ -1,2 +1,2 @@
-# hekko-World
-learn version control
+# hello-World
+learning version control
